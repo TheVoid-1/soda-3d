@@ -2,7 +2,7 @@
 
 A high-performance, immersive 3D hero landing page for **Diet Soda**, featuring interactive 3D WebGL models, cursor-reactive physics, dynamic flavor transitions, and a modern glassmorphism interface.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel)](https://soda-3d-iota.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel)](https://diet-soda-zero.vercel.app/)
 [![3D Engine](https://img.shields.io/badge/3D_Engine-Google_%3Cmodel--viewer%3E-4285F4?style=for-the-badge&logo=google)](https://modelviewer.dev/)
 [![Animation](https://img.shields.io/badge/Motion-GSAP_3-88CE02?style=for-the-badge&logo=greensock)](https://gsap.com/)
 
@@ -10,7 +10,7 @@ A high-performance, immersive 3D hero landing page for **Diet Soda**, featuring 
 
 ## 🌐 Live Preview
 
-👉 **[Experience the Live Site](https://soda-3d-iota.vercel.app/)**
+👉 **[Experience the Live Site](https://diet-soda-zero.vercel.app/)**
 
 ---
 
